@@ -18,7 +18,7 @@
   ## [Installation](#table-of-contents)
   Go ahead and create an empty folder to hold on to this program, then clone it from my repo. Afterwords go ahead and type npm install to inital all your files you need, then go ahead and start the document to further assist with this program. 
   ## [Usage](#table-of-contents)
-  please go to the link provided to watch a video tutorial:
+  please go to the link provided to watch a video tutorial:https://watch.screencastify.com/v/X6KS2LupdnIuaPTL0dXF
   
   For more information on how to add screenshots for examples, visit the following website:
   
