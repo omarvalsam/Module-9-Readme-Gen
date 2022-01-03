@@ -1,5 +1,23 @@
 {
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "[How to create a Professional README](./readme-guide.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "inquirer": "^8.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarvalsam/Module-9-Readme-Gen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/omarvalsam/Module-9-Readme-Gen/issues"
+  },
+  "homepage": "https://github.com/omarvalsam/Module-9-Readme-Gen#readme"
 }
